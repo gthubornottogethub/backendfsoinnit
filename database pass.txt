@@ -1,0 +1,3 @@
+eDWj7N41VT6veTnq
+
+mongodb+srv://discordtemp15:<password>@cluster0.1tmf4ne.mongodb.net/?retryWrites=true&w=majority
